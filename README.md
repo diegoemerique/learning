@@ -48,3 +48,6 @@ My personal learning todo list
 
 ## CSS
 - 📺 [What The Flexbox](https://flexbox.io/) by Wes Bos
+
+## Random list of things to look at
+- https://aws.amazon.com/neptune/
