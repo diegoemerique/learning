@@ -66,11 +66,12 @@ My personal learning todo list
 - 🖥  [Learn Advanced CSS Layout Techniques](https://egghead.io/courses/learn-advanced-css-layout-techniques) at Egghead.io
 - 🖥  [Flexbox Fundamentals](https://egghead.io/courses/flexbox-fundamentals) at Egghead.io
 
-## Databases
+## Databases and APIs
 - 🖥  [Build a GraphQL Server](https://egghead.io/courses/build-a-graphql-server) at Egghead.io
 - 🖥  [Understand Joins and Unions in Postgres](https://egghead.io/courses/understand-joins-and-unions-in-postgres) at Egghead.io
 - 🖥  [Get Started With PostgreSQL](https://egghead.io/courses/get-started-with-postgresql) at Egghead.io
 - 🖥  [Using Postgres Window Functions](https://egghead.io/courses/using-postgres-window-functions) at Egghead.io
+- GraphQL thread: https://twitter.com/matzatorski/status/939564215219687426
 
 ## Electron
 - 🖥  [Build a desktop application with Electron](https://egghead.io/courses/build-a-desktop-application-with-electron) at Egghead.io
