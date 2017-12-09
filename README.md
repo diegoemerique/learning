@@ -19,6 +19,7 @@ My personal learning todo list
 ## JavaScript
 
 ### Core
+- 🖥  [Beginner JavaScript](https://teamtreehouse.com/tracks/beginner-javascript) at Treehouse
 - 🖥  [Understand Javascript Arrays](https://egghead.io/courses/understand-javascript-arrays) at Egghead.io
 - 🖥  [Asynchronous Programming: The End of The Loop](https://egghead.io/courses/asynchronous-programming-the-end-of-the-loop) at Egghead.io
 
