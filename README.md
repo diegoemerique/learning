@@ -19,8 +19,8 @@ My personal learning todo list
 ## JavaScript
 
 ### Core
-- 🖥 [Understand Javascript Arrays](https://egghead.io/courses/understand-javascript-arrays) at Egghead.io
-- 🖥 [Asynchronous Programming: The End of The Loop](https://egghead.io/courses/asynchronous-programming-the-end-of-the-loop) at Egghead.io
+- 🖥  [Understand Javascript Arrays](https://egghead.io/courses/understand-javascript-arrays) at Egghead.io
+- 🖥  [Asynchronous Programming: The End of The Loop](https://egghead.io/courses/asynchronous-programming-the-end-of-the-loop) at Egghead.io
 
 ### ES6
 - 🖥  [ES6 for Everyone](https://es6.io/) by Wes Bos
