@@ -45,6 +45,7 @@ My personal learning todo list
 - 🖥  [Add routing to React apps using React Router v4](https://egghead.io/courses/add-routing-to-react-apps-using-react-router-v4) at Egghead.io
 - 🖥  [Getting Started with React Router](https://egghead.io/courses/getting-started-with-react-router) at Egghead.io
 - 🖥  [Leverage New Features of React 16](https://egghead.io/courses/leverage-new-features-of-react-16) at Egghead.io
+- 🖥  [React Holiday](https://react.holiday/)
 
 ## React Native
 - 🖥  [React Native Fundamentals](https://egghead.io/courses/react-native-fundamentals) at Egghead.io
