@@ -20,12 +20,17 @@ My personal learning todo list
 
 ### Core
 - 🖥  [Beginner JavaScript](https://teamtreehouse.com/tracks/beginner-javascript) at Treehouse
-- 🖥  [Understand Javascript Arrays](https://egghead.io/courses/understand-javascript-arrays) at Egghead.io
-- 🖥  [Asynchronous Programming: The End of The Loop](https://egghead.io/courses/asynchronous-programming-the-end-of-the-loop) at Egghead.io
-
-### ES6
+- 🖥  [Introduction to JavaScript Programming](https://frontendmasters.com/courses/javascript-basics/) at Frontend Masters
+- 🖥  [JavaScript: From Fundamentals to Functional JS](https://frontendmasters.com/courses/js-fundamentals-to-functional/) at Frontend Masters
+- 🖥  [The Good Parts of JavaScript and the Web](https://frontendmasters.com/courses/good-parts-javascript-web/) at Frontend Masters
+- 🖥  [Advanced JS Fundamentals to jQuery & Pure DOM Scripting](https://frontendmasters.com/courses/javascript-jquery-dom/) at Frontend Masters
+- 🖥  [Deep JavaScript Foundations](https://frontendmasters.com/courses/javascript-foundations/) at Frontend Masters
+- 🖥  [Organizing JavaScript Functionality](https://frontendmasters.com/courses/organizing-javascript/) at Frontend Masters
+- 🖥  [ES6: The Right Parts](https://frontendmasters.com/courses/es6-right-parts/) at Frontend Masters
 - 🖥  [ES6 for Everyone](https://es6.io/) by Wes Bos
 - 🖥  [Learn ES6](https://egghead.io/courses/learn-es6-ecmascript-2015) at Egghead.io
+- 🖥  [Understand Javascript Arrays](https://egghead.io/courses/understand-javascript-arrays) at Egghead.io
+- 🖥  [Asynchronous Programming: The End of The Loop](https://egghead.io/courses/asynchronous-programming-the-end-of-the-loop) at Egghead.io
 
 ### Node
 - 🖥  [Introduction to Node: The Fundamentals](https://egghead.io/courses/introduction-to-node-the-fundamentals) at Egghead.io
