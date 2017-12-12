@@ -86,3 +86,4 @@ My personal learning todo list
 ## Random list of things to look at
 - https://aws.amazon.com/neptune/
 - https://github.com/prettier/prettier
+- https://github.com/planningcenter/react-patterns
