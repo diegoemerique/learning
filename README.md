@@ -45,7 +45,7 @@ My personal learning todo list
 ## React
 - 🖥  [Start Learning React](https://egghead.io/courses/start-learning-react) at Egghead.io (✅ Fast paced crash course of React docs)
 - 🖥  [Introduction to The Beginner's Guide to ReactJS](https://egghead.io/lessons/react-introduction-to-the-beginner-s-guide-to-reactjs) at Egghead.io (✅ Another fast paced crash course of React. Good compliment to the one above.)
-- 🖥  [Advanced React Component Patterns](https://egghead.io/courses/advanced-react-component-patterns) at Egghead.io ✅
+- 🖥  [Advanced React Component Patterns](https://egghead.io/courses/advanced-react-component-patterns) at Egghead.io (✅ Advanced indeed. Requires a lot of hands-on experience in order to be really useful. I'll rewatch to this course in 6 months time.)
 - 🖥  [Build Your First Production Quality React App](https://egghead.io/courses/build-your-first-production-quality-react-app) at Egghead.io
 - 🖥  [Advanced React.js Free](https://courses.reacttraining.com/p/advanced-react-free)
 - 🖥  [React Testing Cookbook](https://egghead.io/courses/react-testing-cookbook) at Egghead.io
