@@ -80,6 +80,9 @@ My personal learning todo list
 - 🖥  [Using Postgres Window Functions](https://egghead.io/courses/using-postgres-window-functions) at Egghead.io
 - 🖥  GraphQL thread: https://twitter.com/matzatorski/status/939564215219687426
 - 🖥  [Firebase + React: Real-time, Serverless Web Apps](https://frontendmasters.com/courses/firebase-react/) at Frontend Masters (✅ Amaaaaziiing course with great, real world examples. Loved every minute of it. 🔥)
+- https://www.youtube.com/watch?v=rtoxRg-kbt0&list=PLl-K7zZEsYLlP-k-RKFa7RyNPa9_wCH2s
+- https://www.youtube.com/watch?v=PUBnlbjZFAI
+- https://github.com/firebase/functions-samples
 
 ## Electron
 - 🖥  [Build a desktop application with Electron](https://egghead.io/courses/build-a-desktop-application-with-electron) at Egghead.io
