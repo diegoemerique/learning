@@ -85,6 +85,9 @@ My personal learning todo list
 - https://www.youtube.com/watch?v=PUBnlbjZFAI
 - https://github.com/firebase/functions-samples
 
+## Tooling
+- https://frontendmasters.com/courses/webpack/workshop-outline/
+
 ## Electron
 - 🖥  [Build a desktop application with Electron](https://egghead.io/courses/build-a-desktop-application-with-electron) at Egghead.io
 
