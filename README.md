@@ -14,7 +14,7 @@ My personal learning todo list
 ## Computer Science
 - 🖥  [Digital Literacy](https://teamtreehouse.com/library/topic:digital-literacy) videos from Treehouse
 - 🖥  [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) from Harvard
-
+- 🔥 http://btholt.github.io/four-semesters-of-cs/
 
 ## JavaScript
 
