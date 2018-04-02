@@ -31,6 +31,7 @@ My personal learning todo list
 - 🖥  [Learn ES6](https://egghead.io/courses/learn-es6-ecmascript-2015) at Egghead.io
 - 🖥  [Understand Javascript Arrays](https://egghead.io/courses/understand-javascript-arrays) at Egghead.io
 - 🖥  [Asynchronous Programming: The End of The Loop](https://egghead.io/courses/asynchronous-programming-the-end-of-the-loop) at Egghead.io
+- https://github.com/getify/You-Dont-Know-JS
 
 ### Node
 - 🖥  [Introduction to Node: The Fundamentals](https://egghead.io/courses/introduction-to-node-the-fundamentals) at Egghead.io
